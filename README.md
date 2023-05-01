@@ -4,4 +4,9 @@ In this program you can download video in mp3 and mp4 formats you can select res
 
 ###################
 
-Windows Defender detects virus on this program because of the accessing the files for download video, I'm trying to solve it.
+Windows Defender detects virus on this program because of the accessing the files for download video.
+
+
+###################
+
+There are errors because of libraries, I won't fix it because It will keep bugging. This repository will just stand here for GUI.
