@@ -9,4 +9,5 @@ Windows Defender detects virus on this program because of the accessing the file
 
 ###################
 
-There are errors because of libraries, I won't fix it because It will keep bugging. This repository will just stand here for GUI.
+There are errors because of libraries, I won't fix it because It will keep bugging (I have fixed it twice but after couple library updates new bugs appeared)
+This repository will just stand here for GUI.
